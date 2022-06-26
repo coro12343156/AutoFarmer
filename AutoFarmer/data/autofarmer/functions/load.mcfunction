@@ -1,0 +1,1 @@
+tellraw @a "AutoFarmer はインストールされました！\nAutoFarmer - made by Coro"
